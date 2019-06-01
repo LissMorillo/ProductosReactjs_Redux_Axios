@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": "0",
+      "nombre": "panela de cañita",
+      "precio": 2000
+    },
+    {
+      "id": "2",
+      "nombre": "maiz",
+      "precio": 5000
+    },
+    {
+      "id": "3",
+      "nombre": "azucar",
+      "precio": 4000
+    },
+    {
+      "id": "4",
+      "nombre": "huevos",
+      "precio": 10000
+    },
+    {
+      "id": "5",
+      "nombre": "frijol",
+      "precio": 7000
+    },
+    {
+      "id": "6",
+      "nombre": "nntt",
+      "precio": 2000
+    },
+    {
+      "id": "7",
+      "nombre": "nnnnwq",
+      "precio": 400
+    },
+    {
+      "id": "8",
+      "nombre": "nnnncT",
+      "precio": 400
+    }
+  ]
+}
